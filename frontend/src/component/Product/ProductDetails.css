@@ -1,0 +1,25 @@
+.productdetials {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 5%;
+  align-items: center;
+  text-align: center;
+}
+.carousel-indicators {
+  margin-top: 2vmax;
+}
+.CarouselImage {
+  height: 20vmax;
+  width: 15vmax;
+  border: 1px solid black;
+}
+.detail_block1 {
+  font-size: 1vmax;
+}
+.detail_block2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1vmax;
+}
